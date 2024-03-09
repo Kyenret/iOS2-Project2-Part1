@@ -1,28 +1,28 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *BeReal. Clone*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kyenret Yakubu Ayuba**
 
-**Name of your app** is an app that ... [TODO] 
+**BeReal. Clone** is an app that is designed to replicate key features found in the popular app, BeReal. Within this platform, users are prompted with random notifications throughout the day to share a photo of their current activity. It is only after posting a photo that users gain access to view their friends' posts.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users see an app icon in the home screen and a styled launch screen.
-- [ ] User can register a new account
-- [ ] User can log in with newly created account
-- [ ] App has a feed of posts when user logs in
-- [ ] User can upload a new post which takes in a picture from photo library and an optional caption    
-- [ ] User is able to logout    
+- [x] Users see an app icon in the home screen and a styled launch screen.
+- [x] User can register a new account
+- [x] User can log in with newly created account
+- [x] App has a feed of posts when user logs in
+- [x] User can upload a new post which takes in a picture from photo library and an optional caption    
+- [x] User is able to logout    
  
 The following **optional** features are implemented:
 
 - [ ] Users can pull to refresh their feed and see a loading indicator
 - [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
 - [ ] Users can see location and time of photo upload in the feed    
-- [ ] User stays logged in when app is closed and open again    
+- [x] User stays logged in when app is closed and open again    
 
 
 The following **additional** features are implemented:
@@ -31,17 +31,19 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/a45051a99412421295c826d8422af97f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a45051a99412421295c826d8422af97f-with-play.gif">
+    </a>
 
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4).
-
+  
 ## Notes
 
-Describe any challenges encountered while building the app.
+There were no challenges encountered while building this app, the lab was really helpful in preparing me to complete this project.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Kyenret Yakubu Ayuba]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
